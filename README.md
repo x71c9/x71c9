@@ -1,5 +1,7 @@
 Software engineer: Rust command-line tools for Linux, NixOS infrastructure on Hetzner Cloud, TypeScript libraries.
+
 Freelance in the Toptal network.
+
 Solutions Architect at Assist Digital.
 
 ## Projects
