@@ -12,3 +12,4 @@ Solutions Architect at Assist Digital.
 - [terraform-hetzner-nixos](https://github.com/x71c9/terraform-hetzner-nixos): Terraform module that deploys NixOS servers on Hetzner Cloud with nixos-anywhere.
 - [augenblick](https://github.com/x71c9/augenblick): closes the screen like an eyelid at regular intervals, as a reminder to rest the eyes.
 - [uranio](https://github.com/x71c9/uranio): type-driven ORM/ODM for TypeScript that generates a typed database client from TypeScript interfaces.
+- [affresco](https://github.com/x71c9/affresco): browser extension for Firefox and Chromium that takes full page screenshots of web applications, expanding inner scroll areas and keeping fixed sidebars and headers in place.
